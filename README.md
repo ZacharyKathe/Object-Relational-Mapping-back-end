@@ -17,7 +17,7 @@
 * [Questions](#Questions)
 &nbsp;
 
-![cover photo of readMe]()
+![cover photo of readMe](https://github.com/ZacharyKathe/Object-Relational-Mapping-back-end/blob/main/images/cover.JPG)
 
 &nbsp;
 ## Installation
