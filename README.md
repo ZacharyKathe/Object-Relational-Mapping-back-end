@@ -23,7 +23,7 @@
 ## Installation
 #### All dependinces are in package.json so just do npm i in the terminal at the index.js level for this program.
 &nbsp;
-![Demo video for install]()
+
 &nbsp;
 
 
